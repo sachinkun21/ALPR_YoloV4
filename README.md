@@ -1,1 +1,1 @@
-License Plate recognition with YoloV4 and EasyOCR
+License Plate recognition with YoloV4 and EasyOCR will
