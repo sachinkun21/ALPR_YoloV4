@@ -1,1 +1,1 @@
-License Plate recognition with YoloV4 and EasyOCR will
+# ALPR_Easy_OCR_YoloV4
