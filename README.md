@@ -8,7 +8,5 @@ I have replaced the mish activations with Leaky RELU in the config of YoloV4 pri
 Details in: https://www.linkedin.com/feed/update/ugcPost:6702225426745561088
 
 
-Link to wieght files.
-
-Coming soon: Webapplication to control and run Inferences
+8t35nsmydt
 
